@@ -14,3 +14,6 @@ https://www.youtube.com/watch?v=XDbj6PxaSf0
 
 https://www.kaggle.com/geomack/spotifyclassification/
 
+
+https://classroom.udacity.com/courses/ud262/lessons/313488098/concepts/3131755950923
+
